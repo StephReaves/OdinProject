@@ -25,3 +25,5 @@ public class Application {
 	}
 
 }
+
+// review of primative types 
